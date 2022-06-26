@@ -1,5 +1,6 @@
 :root {
   --first-color: #2196f3;
+  --studio-color: #000000;
   --second-color: black;
   --third-color: #ffffff;
   --fourth-color: #2f303a;
@@ -53,7 +54,7 @@ body {
   text-decoration: none;
   font-size: var(--font-size-logo);
   font-weight: var(--font-weight-700);
-  color: var(--second-color);
+  color: var(--studio-color);
   font-family: var(--logo-font);
 }
 
